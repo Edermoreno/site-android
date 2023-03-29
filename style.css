@@ -139,6 +139,7 @@ p > a:hover{
 ul{
     line-height: 1.3em;
     columns: 2;
+    padding: 0px;
 }
 
 a.externo::after{

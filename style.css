@@ -2,7 +2,7 @@
     font-family:idroid;
     src: url(idroid.otf);
 }
-@charset "UTF-8";
+
 
 :root{
     --fonte-destaque: 'idroid', cursive;
@@ -140,6 +140,7 @@ ul{
     line-height: 1.3em;
     columns: 2;
     padding: 0px;
+
 }
 
 a.externo::after{
